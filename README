@@ -1,5 +1,7 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=2465
+# Wombat256.vim
 
-This is a version of Wombat (vimscript #1778) by Lars Nielsen that also works on xterms with 256 colors.
+This is a my own version of version of [wombat256mod.vim](http://www.vim.org/scripts/script.php?script_id=2465), which is a version of [wombat.vim](http://www.vim.org/scripts/script.php?script_id=1778) by Lars Nielsen.
 
-A customized version is also available, with additional highlighting groups for diff mode and search.
+## Main changes
+
+[] TBD

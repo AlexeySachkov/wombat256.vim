@@ -10,4 +10,4 @@ which is a version of [wombat.vim][wombat.vim-lnk] by Lars Nielsen.
 
 
 [wombat256mod.vim-lnk]: http://www.vim.org/scripts/script.php?script_id=2465
-[wombat256.vim-lnk]: http://www.vim.org/scripts/script.php?script_id=1778
+[wombat.vim-lnk]: http://www.vim.org/scripts/script.php?script_id=1778

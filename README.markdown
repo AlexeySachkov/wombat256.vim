@@ -5,7 +5,7 @@ which is a version of [wombat.vim][wombat.vim-lnk] by Lars Nielsen.
 
 ## Main changes
 
-- [ ] TBD
+- Changed ColorColumn color
 
 
 

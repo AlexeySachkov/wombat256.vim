@@ -65,7 +65,6 @@ hi DiffChange                   ctermbg=237                                guibg
 "hi PmenuThumb
 "hi Question
 "hi Scrollbar
-"hi SignColumn
 "hi SpellBad
 "hi SpellCap
 "hi SpellLocal
@@ -97,3 +96,4 @@ hi Todo           ctermfg=101                 cterm=none    guifg=#857b6f       
 " Links
 hi! link FoldColumn     Folded
 hi! link NonText        LineNr
+hi! link SignColumn     Normal
